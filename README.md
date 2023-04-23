@@ -24,5 +24,5 @@ You can visit the Exigency web application by clicking on this
 
 1. Open the Exigency web application in your web browser.
 2. Allow the web application to access your location or enter your location manually.
-3. Select the type of help you need: Hospital, Police Station, or Fire Station.
+3. Select the type of help you need: Hospital, Police Station, or Pharmacies.
 4. The application will display the nearest available help along with its contact details.
